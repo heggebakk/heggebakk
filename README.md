@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Marie. I'm currently studying a masters degree in Secure an Reliable Communication at the University of Bergen.
+
+
 <!--
 **heggebakk/heggebakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
