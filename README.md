@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marie. I'm currently studying a masters degree in Secure an Reliable Communication at the University of Bergen.
+My name is Marie. I'm currently studying a masters degree in Informatics, Secure an Reliable Communication at the University of Bergen.
 
 
 <!--
